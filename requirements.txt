@@ -3,5 +3,4 @@ streamlit==1.25.0
 numpy==1.24.3
 pandas==2.0.3
 streamlit-extras==0.3.0
-scikit-learn==1.11.1
-sklearn==0.0.post7
+scikit-learn
