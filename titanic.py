@@ -4,6 +4,7 @@ import numpy as np
 import os
 import re
 import time
+import sklearn
 from PIL import Image
 from sklearn.ensemble import RandomForestClassifier
 from streamlit_extras.let_it_rain import rain
